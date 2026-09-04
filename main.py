@@ -37,7 +37,7 @@ def getWeather():
         clock.config(text=current_time)
 
         
-        api_key = 'ece56dd8d43f34d928d84bdeced52b20'
+        api_key = {"your api_key"}
         api = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lng}&appid={api_key}&units=metric"
         
         response = requests.get(api)
