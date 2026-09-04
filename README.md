@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌤️ Weather App
 
 A modern and elegant weather application built with Python and Tkinter that provides real-time weather information for any city worldwide.
