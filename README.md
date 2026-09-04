@@ -10,7 +10,7 @@ A modern and elegant weather application built with Python and Tkinter that prov
 
 ---
 ## Screenshots
-![Weather App Screenshot](images/Screenshot 2026-09-04 200230.png)
+![Weather App Screenshot](images/Screenshot.png)
 
 ---
 
