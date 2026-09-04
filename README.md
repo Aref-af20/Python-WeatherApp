@@ -7,6 +7,11 @@ A modern and elegant weather application built with Python and Tkinter that prov
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 
+
+---
+## Screenshots
+![Weather App Screenshot](images/Screenshot 2026-09-04 200230.png)
+
 ---
 
 ## ✨ Features
