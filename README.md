@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather App
 
 A modern and elegant weather application built with Python and Tkinter that provides real-time weather information for any city worldwide.
@@ -52,3 +53,7 @@ pip install -r requirements.txt
 pip install geopy timezonefinder pytz requests
 
 python weather_app.py
+=======
+# Python-WeatherApp
+A Weather App built with Python and Tkinter.
+>>>>>>> 894dc2f3428a82089554955fb47210143e942020
